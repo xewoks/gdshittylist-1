@@ -179,6 +179,25 @@ const d = {
                        "key": 8
                 },
   /*=================================================================================*/
+			 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Slaughterhouse",
+                       "author": "IcEDCave OG",
+                       "more": "IcEDCave OG",
+                       "id": 27690100,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
+                       "key": 9
+                },
+  /*=================================================================================*/
   ],
 	"version": [
 		2,
