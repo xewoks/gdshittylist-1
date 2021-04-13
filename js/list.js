@@ -8,7 +8,7 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "1000FPS"
+					"hz": ""
 				},
 			],
                        "name": "metathesis",
@@ -29,16 +29,16 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "3000 FPS"
+					"hz": ""
 				},
 			],
-                       "name": "Singularity",
-                       "author": "070",
-                       "more": "070",
-                       "id": 0,
+                       "name": "Kingdom of Miracalis ",
+                       "author": "gdmiracle",
+                       "more": "TheRedMoonYT",
+                       "id": 66900646,
                        "pass": "",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/ZpeEs5PNAyQ?t=191",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=6dYRS1CTez8",
                        "key": 1
                 },
   
@@ -51,16 +51,16 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "1440 FPS"
+					"hz": ""
 				},
 			],
-                       "name": "Arcturus",
-                       "author": "maxfs",
-                       "more": "maxfs",
-                       "id": 0,
+                       "name": "The Ascended",
+                       "author": "BoomBlox555",
+                       "more": "BoomBlox555",
+                       "id": 66720011,
                        "pass": "",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/Wi9ImtkDPG8",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=lb_YxdEw0Yk",
                        "key": 2
                 },
   
@@ -71,16 +71,16 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "720 FPS"
+					"hz": ""
 				},
 			],
-                       "name": "Silent Circles 15",
-                       "author": "TheRealSailent",
-                       "more": "070",
-                       "id": 0,
+                       "name": "Nightmarish",
+                       "author": "Izofdoors",
+                       "more": "Izofdoors",
+                       "id": 67371778,
                        "pass": "pass",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://www.youtube.com/watch?v=XfhxMBwJo7A",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=gCHuGqhj5XY",
                        "key": 3
                 },
    /*=================================================================================*/
@@ -90,16 +90,16 @@ const d = {
 					"user": "",
 					"link": "",
 					"percent": "",
-					"hz": "1872 FPS"
+					"hz": ""
 				},
 			],
-                       "name": "MINUSclub",
-                       "author": "xVOLUMNIUS",
-                       "more": "xVOLUMNIUS",
-                       "id": 0,
+                       "name": "Plancktime",
+                       "author": "kJang",
+                       "more": "kJang",
+                       "id": 66960061,
                        "pass": "pass",
                        "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/1SdZjtUaqV8",
+                       "verificationVid": "https://www.youtube.com/watch?v=kTWKT2Pe9IY",
                        "key": 4
                 },
    /*=================================================================================*/
