@@ -11,7 +11,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "metathesis",
+                       "name": "metathesis [2p]",
                        "author": "maxfs",
                        "more": "Wuro",
                        "id": 67313862,
@@ -32,7 +32,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Kingdom of Miracalis ",
+                       "name": "Kingdom of Miracalis [Unnerfed]",
                        "author": "gdmiracle",
                        "more": "TheRedMoonYT",
                        "id": 66900646,
@@ -54,7 +54,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "The Ascended",
+                       "name": "The Ascended [2p]",
                        "author": "BoomBlox555",
                        "more": "BoomBlox555",
                        "id": 66720011,
@@ -74,7 +74,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Nightmarish",
+                       "name": "Nightmarish [2p]",
                        "author": "Izofdoors",
                        "more": "Izofdoors",
                        "id": 67371778,
@@ -103,7 +103,44 @@ const d = {
                        "key": 4
                 },
    /*=================================================================================*/
-
+ {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Death Circles X [2p]",
+                       "author": "TinSpy",
+                       "more": "TinSpy",
+                       "id": 37289896,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=2pjJrAzEa2c",
+                       "key": 3
+                },
+  /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Rampant Circles [Unnerfed] [2p]*",
+                       "author": "NXISE",
+                       "more": "NXISE",
+                       "id": 37289896,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=kqlCgOX8xk8&feature=youtu.be",
+                       "key": 3
+                },
+  /*=================================================================================*/
   ],
 	"version": [
 		2,
