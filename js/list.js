@@ -119,7 +119,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=2pjJrAzEa2c",
-                       "key": 3
+                       "key": 5
                 },
   /*=================================================================================*/
 		 {
@@ -138,7 +138,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=kqlCgOX8xk8&feature=youtu.be",
-                       "key": 3
+                       "key": 6
                 },
   /*=================================================================================*/
   ],
