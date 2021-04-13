@@ -141,6 +141,44 @@ const d = {
                        "key": 6
                 },
   /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Wistfully",
+                       "author": "xViola",
+                       "more": "xViola,Knali,KrX",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=usKu8aDw6-Q",
+                       "key": 7
+                },
+  /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Six Paths of Pain",
+                       "author": "GionniBlood",
+                       "more": "GionniBlood, Wuro",
+                       "id": 67258257,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=0nGHVlwR2XA",
+                       "key": 8
+                },
+  /*=================================================================================*/
   ],
 	"version": [
 		2,
