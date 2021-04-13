@@ -11,13 +11,13 @@ const d = {
 					"hz": "1000FPS"
 				},
 			],
-                       "name": "Wistfully",
-                       "author": "xViola",
-                       "more": "KrXyt",
-                       "id": 67344125,
-                       "pass": "557774",
-                       "percentToQualify": "5",
-                       "verificationVid": "https://youtu.be/a4uVJWF-it4",
+                       "name": "metathesis",
+                       "author": "maxfs",
+                       "more": "Wuro",
+                       "id": 67313862,
+                       "pass": "none",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=sI5LyynO1Tg",
                        "key": 0
                 },
 	
