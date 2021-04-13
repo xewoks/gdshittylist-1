@@ -11,7 +11,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "metathesis [2p]",
+                       "name": "metathesis",
                        "author": "maxfs",
                        "more": "Wuro",
                        "id": 67313862,
@@ -32,7 +32,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Kingdom of Miracalis [Unnerfed]",
+                       "name": "Kingdom of Miracalis",
                        "author": "gdmiracle",
                        "more": "TheRedMoonYT",
                        "id": 66900646,
@@ -54,7 +54,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "The Ascended [2p]",
+                       "name": "The Ascended",
                        "author": "BoomBlox555",
                        "more": "BoomBlox555",
                        "id": 66720011,
@@ -74,7 +74,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Nightmarish [2p]",
+                       "name": "Nightmarish",
                        "author": "Izofdoors",
                        "more": "Izofdoors",
                        "id": 67371778,
@@ -112,7 +112,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Death Circles X [2p]",
+                       "name": "Death Circles X",
                        "author": "TinSpy",
                        "more": "TinSpy",
                        "id": 37289896,
@@ -131,7 +131,7 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Rampant Circles [Unnerfed] [2p]*",
+                       "name": "Rampant Circles",
                        "author": "NXISE",
                        "more": "NXISE",
                        "id": 37289896,
