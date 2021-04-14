@@ -254,6 +254,45 @@ const d = {
                        "verificationVid": "https://youtu.be/0dB8Owno9IE",
                        "key": 12
                 },
+/*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "mute evasion",
+                       "author": "xViola",
+                       "more": "xHipo",
+                       "id": 68243257,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=vz8T1BD4TD8&feature=youtu.be",
+                       "key": 13
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Singularity",
+                       "author": "070",
+                       "more": "070",
+                       "id": 67432669,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=HKVU_tZLhqg",
+                       "key": 13
+                },
+ /*=================================================================================*/
   ],
 	"version": [
 		2,
