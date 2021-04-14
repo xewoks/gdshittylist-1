@@ -290,7 +290,102 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=HKVU_tZLhqg",
-                       "key": 13
+                       "key": 14
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Hells Birthday",
+                       "author": "Mldi",
+                       "more": "Mldi",
+                       "id": 67511997,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://youtu.be/B48I_8xHdP0",
+                       "key": 15
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "joke submission",
+                       "author": "maxfs",
+                       "more": "maxfs",
+                       "id": 0,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=A_XmiJjyPgs",
+                       "key": 16
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Ballistic Club",
+                       "author": "Ewe23",
+                       "more": "Ewe23",
+                       "id": 66863509,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://youtu.be/fjElxn5T-Xo",
+                       "key": 17
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "CXLM",
+                       "author": "KaiGuy",
+                       "more": "KaiGuy",
+                       "id": 67586548,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "",
+                       "key": 18
+                },
+ /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Silent Circles",
+                       "author": "Cyrillic",
+                       "more": "Sailent",
+                       "id": 12169905,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=0lkzMYZnVa4",
+                       "key": 19
                 },
  /*=================================================================================*/
   ],
