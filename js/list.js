@@ -43,6 +43,25 @@ const d = {
                 },
   
   /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "MOUTH",
+                       "author": "Vn0i",
+                       "more": "KrXyt",
+                       "id": 68338316,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "N/A",
+                       "key": 2
+                },
+  /*=================================================================================*/
   
   
   {
@@ -61,7 +80,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=lb_YxdEw0Yk",
-                       "key": 2
+                       "key": 3
                 },
   
   /*=================================================================================*/
@@ -81,7 +100,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=gCHuGqhj5XY",
-                       "key": 3
+                       "key": 4
                 },
    /*=================================================================================*/
    {
@@ -196,6 +215,25 @@ const d = {
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
                        "key": 9
+                },
+  /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Slaughterhouse",
+                       "author": "IcEDCave OG",
+                       "more": "IcEDCave OG",
+                       "id": 27690100,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
+                       "key": 10
                 },
   /*=================================================================================*/
   ],
