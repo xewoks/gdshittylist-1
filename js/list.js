@@ -119,7 +119,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "5",
                        "verificationVid": "https://www.youtube.com/watch?v=kTWKT2Pe9IY",
-                       "key": 4
+                       "key": 5
                 },
    /*=================================================================================*/
  {
@@ -138,7 +138,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=2pjJrAzEa2c",
-                       "key": 5
+                       "key": 6
                 },
   /*=================================================================================*/
 		 {
@@ -157,7 +157,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=kqlCgOX8xk8&feature=youtu.be",
-                       "key": 6
+                       "key": 7
                 },
   /*=================================================================================*/
 		 {
@@ -176,7 +176,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=usKu8aDw6-Q",
-                       "key": 7
+                       "key": 8
                 },
   /*=================================================================================*/
 		 {
@@ -195,7 +195,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=0nGHVlwR2XA",
-                       "key": 8
+                       "key": 9
                 },
   /*=================================================================================*/
 			 {
@@ -214,7 +214,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
-                       "key": 9
+                       "key": 10
                 },
   /*=================================================================================*/
 		 {
@@ -226,16 +226,34 @@ const d = {
 					"hz": ""
 				},
 			],
-                       "name": "Slaughterhouse",
-                       "author": "IcEDCave OG",
-                       "more": "IcEDCave OG",
-                       "id": 27690100,
+                       "name": "Silent Skrillex",
+                       "author": "DiosselMusic",
+                       "more": "TomScott",
+                       "id": 61195967,
                        "pass": "pass",
                        "percentToQualify": "100",
-                       "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
-                       "key": 10
+                       "verificationVid": "https://www.youtube.com/watch?v=MYY9qX4tHNQ",
+                       "key": 11
                 },
   /*=================================================================================*/
+		 {
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Hi Level",
+                       "author": "FancyDoesGD",
+                       "more": "FancyDoesGD",
+                       "id": 66983865,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://youtu.be/0dB8Owno9IE",
+                       "key": 12
+                },
   ],
 	"version": [
 		2,
