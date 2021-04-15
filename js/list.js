@@ -180,6 +180,25 @@ const d = {
                        "key": 8
                 },
   /*=================================================================================*/
+		{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Ballistic Wistfully",
+                       "author": "eightos and TomScott",
+                       "more": "eightos and TomScott",
+                       "id": 68374588,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "",
+                       "key": 9
+                },
+  /*=================================================================================*/
 		 {
 		"vids": [
         {
@@ -196,7 +215,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=usKu8aDw6-Q",
-                       "key": 9
+                       "key": 10
                 },
   /*=================================================================================*/
 		 {
@@ -215,7 +234,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=0nGHVlwR2XA",
-                       "key": 10
+                       "key": 11
                 },
   /*=================================================================================*/
 			 {
@@ -234,7 +253,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=kWVMubfYej8",
-                       "key": 11
+                       "key": 12
                 },
   /*=================================================================================*/
 		 {
@@ -253,7 +272,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=MYY9qX4tHNQ",
-                       "key": 12
+                       "key": 13
                 },
   /*=================================================================================*/
 		 {
@@ -272,7 +291,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://youtu.be/0dB8Owno9IE",
-                       "key": 13
+                       "key": 14
                 },
 /*=================================================================================*/
 		 {
@@ -291,7 +310,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=vz8T1BD4TD8&feature=youtu.be",
-                       "key": 14
+                       "key": 15
                 },
  /*=================================================================================*/
 		 {
@@ -310,7 +329,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=HKVU_tZLhqg",
-                       "key": 15
+                       "key": 16
                 },
  /*=================================================================================*/
 		 {
@@ -329,7 +348,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://youtu.be/B48I_8xHdP0",
-                       "key": 16
+                       "key": 17
                 },
  /*=================================================================================*/
 		 {
@@ -348,7 +367,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=A_XmiJjyPgs",
-                       "key": 17
+                       "key": 18
                 },
  /*=================================================================================*/
 		 {
@@ -367,7 +386,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://youtu.be/fjElxn5T-Xo",
-                       "key": 18
+                       "key": 19
                 },
  /*=================================================================================*/
 		 {
@@ -386,7 +405,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "",
-                       "key": 19
+                       "key": 20
                 },
  /*=================================================================================*/
 		 {
@@ -405,7 +424,7 @@ const d = {
                        "pass": "pass",
                        "percentToQualify": "100",
                        "verificationVid": "https://www.youtube.com/watch?v=0lkzMYZnVa4",
-                       "key": 20
+                       "key": 21
                 },
  /*=================================================================================*/
   ],
