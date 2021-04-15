@@ -427,6 +427,25 @@ const d = {
                        "key": 21
                 },
  /*=================================================================================*/
+		{
+		"vids": [
+        {
+					"user": "",
+					"link": "",
+					"percent": "",
+					"hz": ""
+				},
+			],
+                       "name": "Price Circles",
+                       "author": "iTerremotin",
+                       "more": "iTerremotin",
+                       "id": 66505816,
+                       "pass": "pass",
+                       "percentToQualify": "100",
+                       "verificationVid": "https://www.youtube.com/watch?v=4vDbEzy-OKg",
+                       "key": 22
+                },
+ /*=================================================================================*/
   ],
 	"version": [
 		2,
